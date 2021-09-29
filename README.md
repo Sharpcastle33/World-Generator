@@ -22,3 +22,7 @@ Generation is additive starting from a completely ocean world. Splotches of land
 Several “heatmap” arrays are generated as source material for the various environmental passes. A coastal heatmap records how far each tile is from the nearest coast. A mountain map places randomized mountain ranges and foothills with a generate-and-test approach. A rain shadow map records which tiles have reduced humidity for being in the shadow of a mountain.
 
 These maps are combined to assign a single biome to each tile based on latitude, longitude, relative humidity, and elevation.
+
+# Art Credit
+
+Terrain Sprites are edits from Toen's Medieval Strategy Sprite Pack
